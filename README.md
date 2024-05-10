@@ -1,2 +1,2 @@
 # Healthify
-A user interface that helps to choose various workour routines like customised YouTube fitness videos to achieve you goal, diet plans and helps to keep a track on progress. It also has a feature known a TDEE(total daily energy expenditure) which helps to maintain healthy calorie intake to achieve desired fitnes levels.
+A user interface designed to assist in selecting various workout routines, including customized YouTube fitness videos to help achieve individual goals. It also provides access to diet plans and aids in tracking progress. Additionally, it features a TDEE (total daily energy expenditure) calculator, facilitating the maintenance of a healthy calorie intake to attain desired fitness levels.
